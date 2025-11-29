@@ -1,5 +1,10 @@
 # project-boilerplate
 
+`.prettierignore`
+```
+node_modules
+```
+
 `.prettierrc`
 
 ```json
