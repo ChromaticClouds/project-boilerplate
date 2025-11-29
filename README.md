@@ -1,7 +1,5 @@
 # project-boilerplate
 
----
-
 `.prettierrc`
 
 ```json
