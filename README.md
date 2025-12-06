@@ -5,6 +5,7 @@
 node_modules
 ```
 
+### Server
 `.prettierrc`
 
 ```json
@@ -29,5 +30,22 @@ node_modules
       }
     }
   ]
+}
+```
+
+### Client
+`.prettierrc`
+
+```json
+{
+  "semi": true,
+  "singleQuote": true,
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "endOfLine": "lf"
 }
 ```
